@@ -1,0 +1,18 @@
+2025/02/08 02:55:09 main.go:23: DB_ERROR: ошибка создания мигратора: failed to open source, "file://db/migration": open .: no such file or directory
+2025/02/08 18:05:57 create_tracking.go:23: DB_ERROR: ошибка при создании нового отслеживания: pq: duplicate key value violates unique constraint "host_statuses_ip_address_key"
+2025/02/08 19:40:16 read_all_statuses.go:58: DB_ERROR: ошибка чтения строк данных: sql: Scan error on column index 1, name "ping_time_ms": converting NULL to int is unsupported
+2025/02/08 20:22:04 read_all_statuses.go:58: DB_ERROR: ошибка чтения строк данных: sql: Scan error on column index 1, name "ping_time_ms": converting NULL to int is unsupported
+2025/02/08 20:30:56 update_status.go:62: DB_ERROR: ошибка при обновлении статуса: pq: relation "posts" does not exist
+2025/02/08 20:31:16 update_status.go:62: DB_ERROR: ошибка при обновлении статуса: pq: relation "posts" does not exist
+2025/02/08 20:31:36 update_status.go:62: DB_ERROR: ошибка при обновлении статуса: pq: relation "posts" does not exist
+2025/02/08 20:31:56 update_status.go:62: DB_ERROR: ошибка при обновлении статуса: pq: relation "posts" does not exist
+2025/02/08 20:32:04 read_all_statuses.go:58: DB_ERROR: ошибка чтения строк данных: sql: Scan error on column index 1, name "ping_time_ms": converting NULL to int is unsupported
+2025/02/08 20:32:16 update_status.go:62: DB_ERROR: ошибка при обновлении статуса: pq: relation "posts" does not exist
+2025/02/08 20:32:32 update_status.go:64: DB_ERROR: ошибка при обновлении статуса: pq: relation "posts" does not exist
+2025/02/08 20:32:52 update_status.go:64: DB_ERROR: ошибка при обновлении статуса: pq: relation "posts" does not exist
+2025/02/08 20:33:12 update_status.go:64: DB_ERROR: ошибка при обновлении статуса: pq: relation "posts" does not exist
+2025/02/08 20:33:18 read_all_statuses.go:58: DB_ERROR: ошибка чтения строк данных: sql: Scan error on column index 1, name "ping_time_ms": converting NULL to int is unsupported
+2025/02/08 20:33:32 update_status.go:64: DB_ERROR: ошибка при обновлении статуса: pq: relation "posts" does not exist
+2025/02/08 20:36:55 read_all_statuses.go:58: DB_ERROR: ошибка при чтении данных хостов: pq: invalid input syntax for type integer: "NULL"
+2025/02/08 20:38:56 read_all_statuses.go:58: DB_ERROR: ошибка при чтении данных хостов: pq: invalid input syntax for type timestamp: "0:0:0"
+2025/02/09 02:33:24 main.go:17: DB_ERROR: ошибка при проверке существования базы данных: dial tcp: lookup postgres on 127.0.0.11:53: no such host

@@ -1,0 +1,143 @@
+2025/02/08 19:04:23 server.go:46: NET: Пинг на '87.240.132.78' не прошел. Ошибка: listen ip4:icmp 87.240.132.78: bind: cannot assign requested address
+2025/02/08 19:04:33 server.go:46: NET: Пинг на '62.217.160.2' не прошел. Ошибка: listen ip4:icmp 62.217.160.2: bind: cannot assign requested address
+2025/02/08 19:04:43 server.go:46: NET: Пинг на '87.240.132.78' не прошел. Ошибка: listen ip4:icmp 87.240.132.78: bind: cannot assign requested address
+2025/02/08 19:04:53 server.go:46: NET: Пинг на '62.217.160.2' не прошел. Ошибка: listen ip4:icmp 62.217.160.2: bind: cannot assign requested address
+2025/02/08 19:11:05 server.go:46: NET: Пинг на '0.0.0.0' не прошел. Ошибка: получен неожиданный ответ от 127.0.0.1: &{Type:echo Code:0 Checksum:53428 Body:0xc00048c150}
+2025/02/08 19:11:15 server.go:46: NET: Пинг на '0.0.0.0' не прошел. Ошибка: получен неожиданный ответ от 127.0.0.1: &{Type:echo Code:0 Checksum:53428 Body:0xc00048c420}
+2025/02/08 19:11:25 server.go:46: NET: Пинг на '0.0.0.0' не прошел. Ошибка: получен неожиданный ответ от 127.0.0.1: &{Type:echo Code:0 Checksum:53428 Body:0xc0005203c0}
+2025/02/08 19:11:35 server.go:46: NET: Пинг на '0.0.0.0' не прошел. Ошибка: получен неожиданный ответ от 127.0.0.1: &{Type:echo Code:0 Checksum:53428 Body:0xc00048c810}
+2025/02/08 19:11:45 server.go:46: NET: Пинг на '0.0.0.0' не прошел. Ошибка: получен неожиданный ответ от 127.0.0.1: &{Type:echo Code:0 Checksum:53428 Body:0xc000520780}
+2025/02/08 19:11:55 server.go:46: NET: Пинг на '0.0.0.0' не прошел. Ошибка: получен неожиданный ответ от 127.0.0.1: &{Type:echo Code:0 Checksum:53428 Body:0xc00048ccf0}
+2025/02/08 19:12:05 server.go:46: NET: Пинг на '0.0.0.0' не прошел. Ошибка: получен неожиданный ответ от 127.0.0.1: &{Type:echo Code:0 Checksum:53428 Body:0xc000520b40}
+2025/02/08 19:12:15 server.go:46: NET: Пинг на '0.0.0.0' не прошел. Ошибка: получен неожиданный ответ от 127.0.0.1: &{Type:echo Code:0 Checksum:53428 Body:0xc00048d110}
+2025/02/08 19:17:10 server.go:46: NET: Пинг на '0.0.0.0' не прошел. Ошибка: получен неожиданный ответ: &{Type:<nil> Code:0 Checksum:42 Body:0xc000294078}
+2025/02/08 19:17:20 server.go:46: NET: Пинг на '0.0.0.0' не прошел. Ошибка: получен неожиданный ответ: &{Type:<nil> Code:0 Checksum:42 Body:0xc000232060}
+2025/02/08 19:17:30 server.go:46: NET: Пинг на '0.0.0.0' не прошел. Ошибка: получен неожиданный ответ: &{Type:<nil> Code:0 Checksum:42 Body:0xc000294108}
+2025/02/08 19:17:40 server.go:46: NET: Пинг на '0.0.0.0' не прошел. Ошибка: получен неожиданный ответ: &{Type:<nil> Code:0 Checksum:42 Body:0xc000294120}
+2025/02/08 19:17:50 server.go:46: NET: Пинг на '0.0.0.0' не прошел. Ошибка: получен неожиданный ответ: &{Type:<nil> Code:0 Checksum:42 Body:0xc000012240}
+2025/02/08 19:18:00 server.go:46: NET: Пинг на '0.0.0.0' не прошел. Ошибка: получен неожиданный ответ: &{Type:<nil> Code:0 Checksum:42 Body:0xc000294180}
+2025/02/08 19:18:10 server.go:46: NET: Пинг на '0.0.0.0' не прошел. Ошибка: получен неожиданный ответ: &{Type:<nil> Code:0 Checksum:42 Body:0xc0000122d0}
+2025/02/08 19:18:20 server.go:46: NET: Пинг на '0.0.0.0' не прошел. Ошибка: получен неожиданный ответ: &{Type:<nil> Code:0 Checksum:42 Body:0xc0002941e0}
+2025/02/08 19:19:37 server.go:46: NET: Пинг на '62.217.160.2' не прошел. Ошибка: получен неожиданный ответ: &{Type:<nil> Code:0 Checksum:42 Body:0xc000013c20}
+2025/02/08 19:19:47 server.go:46: NET: Пинг на '62.217.160.2' не прошел. Ошибка: получен неожиданный ответ: &{Type:<nil> Code:0 Checksum:42 Body:0xc000013c50}
+2025/02/08 19:19:57 server.go:46: NET: Пинг на '62.217.160.2' не прошел. Ошибка: получен неожиданный ответ: &{Type:<nil> Code:0 Checksum:42 Body:0xc00027f380}
+2025/02/08 19:20:07 server.go:46: NET: Пинг на '62.217.160.2' не прошел. Ошибка: получен неожиданный ответ: &{Type:<nil> Code:0 Checksum:42 Body:0xc00027f3b0}
+2025/02/08 19:21:53 server.go:46: NET: Пинг на '62.217.160.2' не прошел. Ошибка: получен неожиданный ответ: &{Type:<nil> Code:0 Checksum:42 Body:0xc000012090}
+2025/02/08 19:22:03 server.go:46: NET: Пинг на '62.217.160.2' не прошел. Ошибка: получен неожиданный ответ: &{Type:<nil> Code:0 Checksum:42 Body:0xc0001ac030}
+2025/02/08 19:22:13 server.go:46: NET: Пинг на '62.217.160.2' не прошел. Ошибка: получен неожиданный ответ: &{Type:<nil> Code:0 Checksum:42 Body:0xc000012120}
+2025/02/08 19:22:23 server.go:46: NET: Пинг на '62.217.160.2' не прошел. Ошибка: получен неожиданный ответ: &{Type:<nil> Code:0 Checksum:42 Body:0xc0001261e0}
+2025/02/08 19:22:33 server.go:46: NET: Пинг на '62.217.160.2' не прошел. Ошибка: получен неожиданный ответ: &{Type:<nil> Code:0 Checksum:42 Body:0xc000012180}
+2025/02/08 19:22:43 server.go:46: NET: Пинг на '62.217.160.2' не прошел. Ошибка: получен неожиданный ответ: &{Type:<nil> Code:0 Checksum:42 Body:0xc000126258}
+2025/02/08 19:22:53 server.go:46: NET: Пинг на '62.217.160.2' не прошел. Ошибка: получен неожиданный ответ: &{Type:<nil> Code:0 Checksum:42 Body:0xc0001262b8}
+2025/02/08 19:23:03 server.go:46: NET: Пинг на '62.217.160.2' не прошел. Ошибка: получен неожиданный ответ: &{Type:<nil> Code:0 Checksum:42 Body:0xc0001262d0}
+2025/02/08 19:23:13 server.go:46: NET: Пинг на '62.217.160.2' не прошел. Ошибка: получен неожиданный ответ: &{Type:<nil> Code:0 Checksum:42 Body:0xc0001262e8}
+2025/02/08 19:23:23 server.go:46: NET: Пинг на '62.217.160.2' не прошел. Ошибка: получен неожиданный ответ: &{Type:<nil> Code:0 Checksum:42 Body:0xc0001ac0f0}
+2025/02/08 19:23:34 server.go:46: NET: Пинг на '62.217.160.2' не прошел. Ошибка: получен неожиданный ответ: &{Type:<nil> Code:0 Checksum:42 Body:0xc0001ac150}
+2025/02/08 19:23:44 server.go:46: NET: Пинг на '62.217.160.2' не прошел. Ошибка: получен неожиданный ответ: &{Type:<nil> Code:0 Checksum:42 Body:0xc000126390}
+2025/02/08 19:23:54 server.go:46: NET: Пинг на '62.217.160.2' не прошел. Ошибка: получен неожиданный ответ: &{Type:<nil> Code:0 Checksum:42 Body:0xc0001263a8}
+2025/02/08 19:24:04 server.go:46: NET: Пинг на '62.217.160.2' не прошел. Ошибка: получен неожиданный ответ: &{Type:<nil> Code:0 Checksum:42 Body:0xc0001263c0}
+2025/02/08 19:24:14 server.go:46: NET: Пинг на '62.217.160.2' не прошел. Ошибка: получен неожиданный ответ: &{Type:<nil> Code:0 Checksum:42 Body:0xc000012270}
+2025/02/08 19:24:24 server.go:46: NET: Пинг на '62.217.160.2' не прошел. Ошибка: получен неожиданный ответ: &{Type:<nil> Code:0 Checksum:42 Body:0xc0000122d0}
+2025/02/08 19:24:34 server.go:46: NET: Пинг на '62.217.160.2' не прошел. Ошибка: получен неожиданный ответ: &{Type:<nil> Code:0 Checksum:42 Body:0xc000126420}
+2025/02/08 19:24:44 server.go:46: NET: Пинг на '62.217.160.2' не прошел. Ошибка: получен неожиданный ответ: &{Type:<nil> Code:0 Checksum:42 Body:0xc000126480}
+2025/02/08 19:24:54 server.go:46: NET: Пинг на '62.217.160.2' не прошел. Ошибка: получен неожиданный ответ: &{Type:<nil> Code:0 Checksum:42 Body:0xc000126498}
+2025/02/08 19:25:04 server.go:46: NET: Пинг на '62.217.160.2' не прошел. Ошибка: получен неожиданный ответ: &{Type:<nil> Code:0 Checksum:42 Body:0xc000012378}
+2025/02/08 19:25:14 server.go:46: NET: Пинг на '62.217.160.2' не прошел. Ошибка: получен неожиданный ответ: &{Type:<nil> Code:0 Checksum:42 Body:0xc000012390}
+2025/02/08 19:25:24 server.go:46: NET: Пинг на '62.217.160.2' не прошел. Ошибка: получен неожиданный ответ: &{Type:<nil> Code:0 Checksum:42 Body:0xc0000123f0}
+2025/02/08 19:25:34 server.go:46: NET: Пинг на '62.217.160.2' не прошел. Ошибка: получен неожиданный ответ: &{Type:<nil> Code:0 Checksum:42 Body:0xc000126540}
+2025/02/08 19:25:44 server.go:46: NET: Пинг на '62.217.160.2' не прошел. Ошибка: получен неожиданный ответ: &{Type:<nil> Code:0 Checksum:42 Body:0xc000012450}
+2025/02/08 19:25:54 server.go:46: NET: Пинг на '62.217.160.2' не прошел. Ошибка: получен неожиданный ответ: &{Type:<nil> Code:0 Checksum:42 Body:0xc0001265a0}
+2025/02/08 19:26:04 server.go:46: NET: Пинг на '62.217.160.2' не прошел. Ошибка: получен неожиданный ответ: &{Type:<nil> Code:0 Checksum:42 Body:0xc000126600}
+2025/02/08 19:26:14 server.go:46: NET: Пинг на '62.217.160.2' не прошел. Ошибка: получен неожиданный ответ: &{Type:<nil> Code:0 Checksum:42 Body:0xc000126618}
+2025/02/08 19:26:24 server.go:46: NET: Пинг на '62.217.160.2' не прошел. Ошибка: получен неожиданный ответ: &{Type:<nil> Code:0 Checksum:42 Body:0xc000126630}
+2025/02/08 19:26:34 server.go:46: NET: Пинг на '62.217.160.2' не прошел. Ошибка: получен неожиданный ответ: &{Type:<nil> Code:0 Checksum:42 Body:0xc000012540}
+2025/02/08 19:26:44 server.go:46: NET: Пинг на '62.217.160.2' не прошел. Ошибка: получен неожиданный ответ: &{Type:<nil> Code:0 Checksum:42 Body:0xc000012558}
+2025/02/08 19:32:41 get_ping_list.go:13: NET: не удалось получить доступ к ресурсу: Get "http://server:1234/read_ip_list": dial tcp 172.20.0.3:1234: connect: connection refused
+2025/02/08 19:32:51 server.go:46: NET: Пинг на '62.217.160.2' не прошел. Ошибка: получен неожиданный ответ: &{Type:<nil> Code:0 Checksum:42 Body:0xc0001b8078}
+2025/02/08 19:33:01 server.go:46: NET: Пинг на '62.217.160.2' не прошел. Ошибка: получен неожиданный ответ: &{Type:<nil> Code:0 Checksum:42 Body:0xc0001b80f0}
+2025/02/08 19:33:11 server.go:46: NET: Пинг на '62.217.160.2' не прошел. Ошибка: получен неожиданный ответ: &{Type:<nil> Code:0 Checksum:42 Body:0xc000012048}
+2025/02/08 19:33:21 server.go:46: NET: Пинг на '62.217.160.2' не прошел. Ошибка: получен неожиданный ответ: &{Type:<nil> Code:0 Checksum:42 Body:0xc0001b8168}
+2025/02/08 19:33:31 server.go:46: NET: Пинг на '62.217.160.2' не прошел. Ошибка: получен неожиданный ответ: &{Type:<nil> Code:0 Checksum:42 Body:0xc0000120c0}
+2025/02/08 19:33:41 server.go:46: NET: Пинг на '62.217.160.2' не прошел. Ошибка: получен неожиданный ответ: &{Type:<nil> Code:0 Checksum:42 Body:0xc0001b81c8}
+2025/02/08 19:33:51 server.go:46: NET: Пинг на '62.217.160.2' не прошел. Ошибка: получен неожиданный ответ: &{Type:<nil> Code:0 Checksum:42 Body:0xc0001b8228}
+2025/02/08 19:34:01 server.go:46: NET: Пинг на '62.217.160.2' не прошел. Ошибка: получен неожиданный ответ: &{Type:<nil> Code:0 Checksum:42 Body:0xc000012120}
+2025/02/08 19:34:11 server.go:46: NET: Пинг на '62.217.160.2' не прошел. Ошибка: получен неожиданный ответ: &{Type:<nil> Code:0 Checksum:42 Body:0xc000012180}
+2025/02/08 19:34:49 server.go:46: NET: Пинг на '62.217.160.2' не прошел. Ошибка: получен неожиданный ответ: &{Type:<nil> Code:0 Checksum:42 Body:0xc000294078}
+2025/02/08 19:34:59 server.go:46: NET: Пинг на '62.217.160.2' не прошел. Ошибка: получен неожиданный ответ: &{Type:<nil> Code:0 Checksum:42 Body:0xc0001ba018}
+2025/02/08 19:35:09 server.go:46: NET: Пинг на '62.217.160.2' не прошел. Ошибка: получен неожиданный ответ: &{Type:<nil> Code:0 Checksum:42 Body:0xc000126228}
+2025/02/08 19:35:19 server.go:46: NET: Пинг на '62.217.160.2' не прошел. Ошибка: получен неожиданный ответ: &{Type:<nil> Code:0 Checksum:42 Body:0xc000126270}
+2025/02/08 19:35:29 server.go:46: NET: Пинг на '62.217.160.2' не прошел. Ошибка: получен неожиданный ответ: &{Type:<nil> Code:0 Checksum:42 Body:0xc000126288}
+2025/02/08 19:35:39 server.go:46: NET: Пинг на '62.217.160.2' не прошел. Ошибка: получен неожиданный ответ: &{Type:<nil> Code:0 Checksum:42 Body:0xc0001262e8}
+2025/02/08 19:35:49 server.go:46: NET: Пинг на '62.217.160.2' не прошел. Ошибка: получен неожиданный ответ: &{Type:<nil> Code:0 Checksum:42 Body:0xc000126300}
+2025/02/08 19:35:59 server.go:46: NET: Пинг на '62.217.160.2' не прошел. Ошибка: получен неожиданный ответ: &{Type:<nil> Code:0 Checksum:42 Body:0xc000294198}
+2025/02/08 19:36:09 server.go:46: NET: Пинг на '62.217.160.2' не прошел. Ошибка: получен неожиданный ответ: &{Type:<nil> Code:0 Checksum:42 Body:0xc0002941f8}
+2025/02/08 19:36:19 server.go:46: NET: Пинг на '62.217.160.2' не прошел. Ошибка: получен неожиданный ответ: &{Type:<nil> Code:0 Checksum:42 Body:0xc000126360}
+2025/02/08 19:36:29 server.go:46: NET: Пинг на '62.217.160.2' не прошел. Ошибка: получен неожиданный ответ: &{Type:<nil> Code:0 Checksum:42 Body:0xc000294258}
+2025/02/08 19:52:49 server.go:46: NET: Пинг на '62.217.160.2' не прошел. Ошибка: получен неожиданный ответ: &{Type:<nil> Code:0 Checksum:42 Body:0xc000593a40}
+2025/02/08 19:52:59 server.go:46: NET: Пинг на '62.217.160.2' не прошел. Ошибка: получен неожиданный ответ: &{Type:<nil> Code:0 Checksum:42 Body:0xc000593a70}
+2025/02/08 19:53:09 server.go:46: NET: Пинг на '62.217.160.2' не прошел. Ошибка: получен неожиданный ответ: &{Type:<nil> Code:0 Checksum:42 Body:0xc0002fdb30}
+2025/02/08 19:53:19 server.go:46: NET: Пинг на '62.217.160.2' не прошел. Ошибка: получен неожиданный ответ: &{Type:<nil> Code:0 Checksum:42 Body:0xc0002fdb60}
+2025/02/08 19:55:23 server.go:46: NET: Пинг на '62.217.160.2' не прошел. Ошибка: listen ip4:icmp 62.217.160.2: bind: cannot assign requested address
+2025/02/08 19:55:33 server.go:46: NET: Пинг на '62.217.160.2' не прошел. Ошибка: listen ip4:icmp 62.217.160.2: bind: cannot assign requested address
+2025/02/08 19:55:43 server.go:46: NET: Пинг на '62.217.160.2' не прошел. Ошибка: listen ip4:icmp 62.217.160.2: bind: cannot assign requested address
+2025/02/08 19:55:53 server.go:46: NET: Пинг на '62.217.160.2' не прошел. Ошибка: listen ip4:icmp 62.217.160.2: bind: cannot assign requested address
+2025/02/08 20:02:35 get_ping_list.go:13: NET: не удалось получить доступ к ресурсу: Get "http://server:1234/read_ip_list": dial tcp 172.20.0.3:1234: connect: connection refused
+2025/02/08 20:02:45 server.go:46: NET: Пинг на '62.217.160.2' не прошел. Ошибка: listen ip4:icmp 8.8.8.8: bind: cannot assign requested address
+2025/02/08 20:02:55 server.go:46: NET: Пинг на '62.217.160.2' не прошел. Ошибка: listen ip4:icmp 8.8.8.8: bind: cannot assign requested address
+2025/02/08 20:03:21 update_ping_status.go:28: NET: ошибка ри отправке запроса: Post "server:1234": unsupported protocol scheme "server"
+2025/02/08 20:03:41 update_ping_status.go:28: NET: ошибка ри отправке запроса: Post "server:1234": unsupported protocol scheme "server"
+2025/02/08 20:04:01 update_ping_status.go:28: NET: ошибка ри отправке запроса: Post "server:1234": unsupported protocol scheme "server"
+2025/02/08 20:04:21 update_ping_status.go:28: NET: ошибка ри отправке запроса: Post "server:1234": unsupported protocol scheme "server"
+2025/02/08 20:04:41 update_ping_status.go:28: NET: ошибка ри отправке запроса: Post "server:1234": unsupported protocol scheme "server"
+2025/02/08 20:06:14 update_ping_status.go:28: NET: ошибка ри отправке запроса: Post "server:1234": unsupported protocol scheme "server"
+2025/02/08 20:06:34 update_ping_status.go:28: NET: ошибка ри отправке запроса: Post "server:1234": unsupported protocol scheme "server"
+2025/02/08 20:06:54 update_ping_status.go:28: NET: ошибка ри отправке запроса: Post "server:1234": unsupported protocol scheme "server"
+2025/02/08 20:07:14 update_ping_status.go:28: NET: ошибка ри отправке запроса: Post "server:1234": unsupported protocol scheme "server"
+2025/02/08 20:07:34 update_ping_status.go:28: NET: ошибка ри отправке запроса: Post "server:1234": unsupported protocol scheme "server"
+2025/02/08 20:07:54 update_ping_status.go:28: NET: ошибка ри отправке запроса: Post "server:1234": unsupported protocol scheme "server"
+2025/02/08 20:08:14 update_ping_status.go:28: NET: ошибка ри отправке запроса: Post "server:1234": unsupported protocol scheme "server"
+2025/02/08 20:11:23 server.go:46: NET: Пинг на '62.217.160.2' не прошел. Ошибка: listen ip4:icmp 62.217.160.2: bind: cannot assign requested address
+2025/02/08 20:11:33 server.go:46: NET: Пинг на '62.217.160.2' не прошел. Ошибка: listen ip4:icmp 62.217.160.2: bind: cannot assign requested address
+2025/02/08 20:11:43 server.go:46: NET: Пинг на '62.217.160.2' не прошел. Ошибка: listen ip4:icmp 62.217.160.2: bind: cannot assign requested address
+2025/02/08 20:11:53 server.go:46: NET: Пинг на '185.73.194.82' не прошел. Ошибка: listen ip4:icmp 185.73.194.82: bind: cannot assign requested address
+2025/02/08 20:12:03 server.go:46: NET: Пинг на '62.217.160.2' не прошел. Ошибка: listen ip4:icmp 62.217.160.2: bind: cannot assign requested address
+2025/02/08 20:12:13 server.go:46: NET: Пинг на '185.73.194.82' не прошел. Ошибка: listen ip4:icmp 185.73.194.82: bind: cannot assign requested address
+2025/02/08 20:12:23 server.go:46: NET: Пинг на '62.217.160.2' не прошел. Ошибка: listen ip4:icmp 62.217.160.2: bind: cannot assign requested address
+2025/02/08 20:13:12 server.go:46: NET: Пинг на '62.217.160.2' не прошел. Ошибка: listen ip4:icmp: lookup http://62.217.160.2: no such host
+2025/02/08 20:13:22 server.go:46: NET: Пинг на '185.73.194.82' не прошел. Ошибка: listen ip4:icmp: lookup http://185.73.194.82: no such host
+2025/02/08 20:13:32 server.go:46: NET: Пинг на '62.217.160.2' не прошел. Ошибка: listen ip4:icmp: lookup http://62.217.160.2: no such host
+2025/02/08 20:17:59 update_ping_status.go:28: NET: ошибка ри отправке запроса: Post "server:1234": unsupported protocol scheme "server"
+2025/02/08 20:20:54 update_ping_status.go:33: NET: запрос не выполнен
+2025/02/08 20:21:14 update_ping_status.go:33: NET: запрос не выполнен
+2025/02/08 20:21:34 update_ping_status.go:33: NET: запрос не выполнен
+2025/02/08 20:21:54 update_ping_status.go:33: NET: запрос не выполнен
+2025/02/08 20:22:14 update_ping_status.go:33: NET: запрос не выполнен
+2025/02/08 20:22:34 update_ping_status.go:33: NET: запрос не выполнен
+2025/02/08 20:22:54 update_ping_status.go:33: NET: запрос не выполнен
+2025/02/08 20:23:54 update_ping_status.go:36: NET: запрос не выполнен
+2025/02/08 20:24:14 update_ping_status.go:36: NET: запрос не выполнен
+2025/02/08 20:24:43 update_ping_status.go:36: NET: запрос не выполнен
+2025/02/08 20:25:03 update_ping_status.go:36: NET: запрос не выполнен
+2025/02/08 20:25:23 update_ping_status.go:36: NET: запрос не выполнен
+2025/02/08 20:28:36 update_ping_status.go:33: NET: запрос не выполнен
+2025/02/08 20:28:56 update_ping_status.go:33: NET: запрос не выполнен
+2025/02/08 20:29:16 update_ping_status.go:33: NET: запрос не выполнен
+2025/02/08 20:29:36 update_ping_status.go:33: NET: запрос не выполнен
+2025/02/08 20:29:56 update_ping_status.go:33: NET: запрос не выполнен
+2025/02/08 20:30:56 update_ping_status.go:34: NET: запрос не выполнен
+2025/02/08 20:31:16 update_ping_status.go:34: NET: запрос не выполнен
+2025/02/08 20:31:36 update_ping_status.go:34: NET: запрос не выполнен
+2025/02/08 20:31:56 update_ping_status.go:34: NET: запрос не выполнен
+2025/02/08 20:32:16 update_ping_status.go:34: NET: запрос не выполнен
+2025/02/08 20:32:32 update_ping_status.go:34: NET: запрос не выполнен
+2025/02/08 20:32:52 update_ping_status.go:34: NET: запрос не выполнен
+2025/02/08 20:33:12 update_ping_status.go:34: NET: запрос не выполнен
+2025/02/08 20:33:32 update_ping_status.go:34: NET: запрос не выполнен
+2025/02/08 22:56:20 get_ping_list.go:13: NET: не удалось получить доступ к ресурсу: Get "http://server:1234/read_ip_list": dial tcp 172.20.0.3:1234: connect: connection refused
+2025/02/09 02:20:00 get_ping_list.go:13: NET: не удалось получить доступ к ресурсу: Get "http://server:1234/read_ip_list": dial tcp 172.20.0.4:1234: connect: connection refused
+2025/02/09 02:33:19 get_ping_list.go:13: NET: не удалось получить доступ к ресурсу: Get "http://server:1234/read_ip_list": dial tcp 172.21.0.2:1234: connect: connection refused
+2025/02/09 02:33:32 get_ping_list.go:13: NET: не удалось получить доступ к ресурсу: Get "http://server:1234/read_ip_list": dial tcp: lookup server on 127.0.0.11:53: no such host
+2025/02/09 02:33:45 get_ping_list.go:13: NET: не удалось получить доступ к ресурсу: Get "http://server:1234/read_ip_list": dial tcp: lookup server on 127.0.0.11:53: no such host
+2025/02/09 02:33:59 get_ping_list.go:13: NET: не удалось получить доступ к ресурсу: Get "http://server:1234/read_ip_list": dial tcp: lookup server on 127.0.0.11:53: no such host
+2025/02/09 02:35:14 get_ping_list.go:13: NET: не удалось получить доступ к ресурсу: Get "http://server:1234/read_ip_list": dial tcp 172.20.0.3:1234: connect: connection refused
+2025/02/09 02:50:29 get_ping_list.go:13: NET: не удалось получить доступ к ресурсу: Get "http://server:1234/read_ip_list": dial tcp 172.20.0.3:1234: connect: connection refused
